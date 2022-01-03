@@ -1,4 +1,3 @@
-" just some random text
 " display a friendly ascii art cat on logging in
 echo '(>^.^<)'
 
